@@ -15,7 +15,10 @@ El propósito es comprender los efectos de la propagación de ondas electromagn�
 
 En esta sección se tienen las siguientes ayudas didácticas:
 - [Campo eléctrico](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/CampoElectrico.ipynb)
+
 - [Propagación en diferentes medios](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/MediosElectricos.ipynb)
+
+- [Efecto piel](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/EfectoPiel.ipynb)
 
 
 ## 2. Líneas de transmisión

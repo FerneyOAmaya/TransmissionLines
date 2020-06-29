@@ -4,6 +4,7 @@ En esta sección cuenta con diferentes libros en Jupyter que tienen como objetiv
 
 Se incluyen los siguientes temas:
 - Propagación de ondas electromagnéticas
+- Parámetros de desempeño en sistemas de transmisión
 - Líneas de transmisión
 
 Un buen resumen de los aspectos básicos de Python: <br>
@@ -20,8 +21,11 @@ En esta sección se tienen las siguientes ayudas didácticas:
 
 - [Efecto piel](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/EfectoPiel.ipynb)
 
+## 2. Parámetros de desempeño en sistemas de transmisión
 
-## 2. Líneas de transmisión
+- [Ruido Térmico](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/RuidoTermico.ipynb)
+
+## 3. Líneas de transmisión
 
 El propósito es comprender los efectos de la propagación a través de las líneas de transmisión.
 

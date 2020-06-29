@@ -31,5 +31,7 @@ El propósito es comprender los efectos de la propagación a través de las lín
 
 En esta sección se tienen las siguientes ayudas didácticas:
 - [Fasores con numpy](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/Fasores.ipynb)
-- [Líneas de Transmisión]
+
+- [Líneas de Transmisión](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/LineasTrasnsmision.ipynb)
+
 

@@ -9,31 +9,31 @@ Se incluyen los siguientes temas:
 
 Un buen resumen de los aspectos básicos de Python: <br>
 
-- [Introducción a Python](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_Python.ipynb)
+- [Introducción a Python](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_Python.ipynb)
 
 Una descripción de la operación con números complejos y fasores empleando Python y la biblioteca numpy: <br>
 
-- [Fasores con numpy](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/Fasores.ipynb)
+- [Fasores con numpy](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/Fasores.ipynb)
 
 ## 1. Parámetros de desempeño en sistemas de transmisión
 
-- [Ruido Térmico](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/RuidoTermico.ipynb)
+- [Ruido Térmico](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/RuidoTermico.ipynb)
 
 ## 2. Propagación de ondas electromagnéticas
 
 El propósito es comprender los efectos de la propagación de ondas electromagnéticas a través de diferentes tipos de medios.
 
-- [Ondas Eléctricas](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/OndasElectricas.ipynb)
+- [Ondas Eléctricas](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/OndasElectricas.ipynb)
 
-- [Medios eléctricos: dieléctricos y conductores](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/MediosElectricos.ipynb)
+- [Medios eléctricos: dieléctricos y conductores](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/MediosElectricos.ipynb)
 
-- [Efecto piel](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/EfectoPiel.ipynb)
+- [Efecto piel](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/EfectoPiel.ipynb)
 
 
 ## 3. Líneas de transmisión
 
 El propósito es comprender los efectos de la propagación a través de las líneas de transmisión.
 
-- [Líneas de Transmisión](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/LineasTransmision.ipynb)
+- [Líneas de Transmisión](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/LineasTransmision.ipynb)
 
-- [Carta de Smith](https://nbviewer.jupyter.org/github/FerneyOAmaya/TransmissionLines/blob/master/Smith.ipynb)
+- [Carta de Smith](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/Smith.ipynb)

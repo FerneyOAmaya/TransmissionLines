@@ -17,7 +17,7 @@ Una descripción de la operación con números complejos y fasores empleando Pyt
 
 ## 1. Parámetros de desempeño en sistemas de transmisión
 
-- [Ruido Térmico](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/RuidoTermico.ipynb)
+- [Ruido Térmico](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/ParametrosDesempeño.ipynb)
 
 ## 2. Propagación de ondas electromagnéticas
 

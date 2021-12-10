@@ -17,14 +17,15 @@ Una descripción de la operación con números complejos y fasores empleando Pyt
 
 ## 1. Parámetros de desempeño en sistemas de transmisión
 
-- [Parémetros de Desempeño](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/ParametrosDesempeño.ipynb)
+Se presenta la descripción de los parámetros de desempeño: Relación Señal a Ruido, BER (Bit Error Rate), Intermodulación y distorsion no lineal. 
+Se presentan algunas herramientas para apropiar estos conceptos.
+
+- [Parámetros de Desempeño](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/ParametrosDesempeño.ipynb)
 
 ## 2. Propagación de ondas electromagnéticas
 
-El propósito es comprender los efectos de la propagación de ondas electromagnéticas a través de diferentes tipos de medios. Se abordan los sigientes temas:
-- Ondas eléctricas.
-- Propagación en dieléctricos y conductores.
-- Efecto piel.
+El propósito es comprender los efectos de la propagación de ondas electromagnéticas a través de diferentes tipos de medios. 
+Se abordan los sigientes temas: Ondas eléctricas, Propagación en dieléctricos y conductores, Efecto piel.
 
 - [Propagación de ondas en medios eléctricos](https://colab.research.google.com/github/FerneyOAmaya/TransmissionLines/blob/master/PropagacionOndasMedios.ipynb)
 
